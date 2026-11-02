@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "tracks": {
   "sm_islami_648_50cd3af2": {
    "ar": "https://raw.githubusercontent.com/Mouc878/an-nur-sermons/main/tracks/sm_islami_648_50cd3af2.ar.vtt",
@@ -129,6 +129,27 @@
   },
   "sm_abdul_hamid_kishk_0ada8659": {
    "ar": "https://raw.githubusercontent.com/Mouc878/an-nur-sermons/main/tracks/sm_abdul_hamid_kishk_0ada8659.ar.vtt"
+  },
+  "sm_kishk_201506_005_e3af62a7": {
+   "ar": "https://raw.githubusercontent.com/Mouc878/an-nur-sermons/main/tracks/sm_kishk_201506_005_e3af62a7.ar.vtt"
+  },
+  "sm_kishk_201506_108_3cc880eb": {
+   "ar": "https://raw.githubusercontent.com/Mouc878/an-nur-sermons/main/tracks/sm_kishk_201506_108_3cc880eb.ar.vtt"
+  },
+  "sm_kishk_201506_004_9452ed1f": {
+   "ar": "https://raw.githubusercontent.com/Mouc878/an-nur-sermons/main/tracks/sm_kishk_201506_004_9452ed1f.ar.vtt"
+  },
+  "sm_kishk_201506_079_c7a1cb2c": {
+   "ar": "https://raw.githubusercontent.com/Mouc878/an-nur-sermons/main/tracks/sm_kishk_201506_079_c7a1cb2c.ar.vtt"
+  },
+  "sm_kishk_201506_080_ff7cbff6": {
+   "ar": "https://raw.githubusercontent.com/Mouc878/an-nur-sermons/main/tracks/sm_kishk_201506_080_ff7cbff6.ar.vtt"
+  },
+  "sm_abdul_hamid_kishk_1fc0a99f": {
+   "ar": "https://raw.githubusercontent.com/Mouc878/an-nur-sermons/main/tracks/sm_abdul_hamid_kishk_1fc0a99f.ar.vtt"
+  },
+  "sm_20231227_20231227_1403_026_7ae637f6": {
+   "ar": "https://raw.githubusercontent.com/Mouc878/an-nur-sermons/main/tracks/sm_20231227_20231227_1403_026_7ae637f6.ar.vtt"
   }
  }
 }
